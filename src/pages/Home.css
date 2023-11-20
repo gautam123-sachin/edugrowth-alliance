@@ -1,0 +1,29 @@
+/* src/pages/Landing.css */
+.landing-container {
+  background-color: #fdfdfd;
+  padding: 20px;
+  margin-top: 100px;
+}
+
+.landing-title {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.landing-description {
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.landing-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.landing-button {
+  margin: 10px;
+  padding: 10px 20px;
+}
